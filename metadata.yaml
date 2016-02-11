@@ -1,0 +1,28 @@
+_repo: Kant-s-Critique-of-Judgement_48433
+contributor:
+  translator:
+    agent_name: Bernard, J. H.
+    gutenberg_agent_id: '44796'
+    url: http://www.gutenberg.org/2009/agents/44796
+creator:
+  author:
+    agent_name: Kant, Immanuel
+    aliases:
+    - Kant, I. (Immanuil)
+    - Kant, Emmanuel
+    birthdate: 1724
+    deathdate: 1804
+    gutenberg_agent_id: '1426'
+    url: http://www.gutenberg.org/2009/agents/1426
+    wikipedia: http://en.wikipedia.org/wiki/Immanuel_Kant
+description: ''
+gutenberg_issued: '2015-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48433'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Kant's Critique of Judgement
+url: http://www.gutenberg.org/ebooks/48433
